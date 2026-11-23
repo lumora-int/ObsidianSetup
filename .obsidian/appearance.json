@@ -5,6 +5,7 @@
   "theme": "obsidian",
   "enabledCssSnippets": [
     "page-break",
-    "checked-task-style"
+    "checked-task-style",
+    "bold-bright-red"
   ]
 }

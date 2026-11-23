@@ -68,6 +68,7 @@ Plus two of our own, bundled in this vault:
 
 - **Task Balloons** — a burst of balloons when you complete a checklist item. Tune the emoji, count, and float time in **Settings → Task Balloons**, or turn it off entirely in **Settings → Community plugins**.
 - **`checked-task-style` snippet** — renders completed tasks in italic light green with an underline rather than a line through them. Edit the two colour values in `.obsidian/snippets/checked-task-style.css`, or switch it off in **Settings → Appearance → CSS snippets**.
+- **`bold-bright-red` snippet** — bold text (`Cmd/Ctrl + B`) is also bright red, so emphasis stands out. Change the colour in `.obsidian/snippets/bold-bright-red.css`, or switch it off in **Settings → Appearance → CSS snippets**.
 
 All plugins are open-source community plugins by their respective authors, bundled here for convenience under their own licenses. You can update them anytime from **Settings → Community plugins → Check for updates**.
 

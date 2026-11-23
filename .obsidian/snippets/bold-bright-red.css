@@ -1,0 +1,15 @@
+/* Bold text (Cmd/Ctrl + B, **text**) is also bright red. */
+
+body {
+  --bold-color: #ff1a1a;
+}
+
+/* Reading view + rendered markdown (Kanban, Dataview, etc.) */
+.markdown-rendered strong,
+.markdown-rendered b,
+
+/* Live Preview / source mode (CodeMirror 6) */
+.markdown-source-view.mod-cm6 .cm-strong,
+.cm-s-obsidian .cm-strong {
+  color: #ff1a1a !important;
+}

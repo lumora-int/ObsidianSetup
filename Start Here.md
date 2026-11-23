@@ -34,6 +34,7 @@ If you would rather not do the setup by hand, **Claude Code** can clone this vau
 | `Cmd/Ctrl + Enter` | Cycle checkbox state on a list item |
 | `Cmd/Ctrl + G`     | Open local graph for current note   |
 | `Cmd/Ctrl + R`     | Switch text direction (RTL/LTR)     |
+| `Cmd/Ctrl + B`     | Bold — shown in bright red          |
 | `Cmd/Ctrl + P`     | Command palette — search any action |
 
 ## What's installed
